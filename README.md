@@ -19,6 +19,16 @@ Here are some ideas to get you started:
 
 <p align="left">I'm a student at 42 Porto, where I dedicate my time to expanding my programming knowledge as much as possible. I'm constantly looking for new challenges and learning, and I'm currently focused on the C language. As well as being a programmer, I'm a multidisciplinary designer with a passion for integrating physical and digital experiences. In my spare time, I seek inspiration in the arts, especially animated cinema.</p>
 
+### 
+
+<h3 align="left">42 Projects</h3>
+
+- ✅ [Libft](https://github.com/vde-maga/42-libft)
+- ✅ [ft_printf](https://github.com/vde-maga/42-printf) / [get_next_line](https://github.com/vde-maga/42-get_next_line) / Born2beroot
+
+###
+
+
 ###
 
 <h3 align="left">Language and Tools</h3>
