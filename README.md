@@ -21,7 +21,9 @@ Here are some ideas to get you started:
 
 ### 
 
-<h3 align="left">42 Projects</h3>
+<h3 >
+   <img src="https://profile.intra.42.fr/assets/42_logo-7dfc9110a5319a308863b96bda33cea995046d1731cebb735e41b16255106c12.svg" alt="42 Logo" width="35px" align="center"> Projects
+</h3>
 
 - ✅ [Libft](https://github.com/vde-maga/42-libft)
 - ✅ [ft_printf](https://github.com/vde-maga/42-printf) / [get_next_line](https://github.com/vde-maga/42-get_next_line) / Born2beroot
