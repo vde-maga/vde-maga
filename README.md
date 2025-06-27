@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 
 - ✅ [Libft](https://github.com/vde-maga/42-libft)
 - ✅ [ft_printf](https://github.com/vde-maga/42-printf) / [get_next_line](https://github.com/vde-maga/42-get_next_line) / Born2beroot
+- [Exam Rank 02](https://github.com/vde-maga/42-Exam_Practice) / [Push_Swap](https://github.com/vde-maga/42-push_swap)
 
 ###
 
