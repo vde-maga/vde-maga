@@ -25,9 +25,17 @@ Here are some ideas to get you started:
    <img src="https://profile.intra.42.fr/assets/42_logo-7dfc9110a5319a308863b96bda33cea995046d1731cebb735e41b16255106c12.svg" alt="42 Logo" width="35px" align="center"> Projects
 </h3>
 
-- ✅ [Libft](https://github.com/vde-maga/42-libft)
-- ✅ [ft_printf](https://github.com/vde-maga/42-printf) / [get_next_line](https://github.com/vde-maga/42-get_next_line) / Born2beroot
-- [Exam Rank 02](https://github.com/vde-maga/42-Exam_Practice) / [Push_Swap](https://github.com/vde-maga/42-push_swap)
+| Milestone | Project Name | Status |
+| --- | --- | --- | 
+| 0 | [Libft](https://github.com/vde-maga/42-libft) | ✅ |
+| 1 | [ft_printf](https://github.com/vde-maga/42-printf) | ✅ |
+| 1 | [Get Next Line](https://github.com/vde-maga/42-get_next_line) | ✅ |
+| 1 | Born2beRoot | ✅ |
+| 2 | [Exam Rank 02](https://github.com/vde-maga/42-Exam_Practice) | ✅ |
+| 2 | [Push_swap](https://github.com/vde-maga/42-push_swap) | | 
+| 2 | Minitalk | | 
+| 2 | So Long | |
+
 
 ###
 
