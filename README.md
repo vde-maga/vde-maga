@@ -33,8 +33,8 @@ Here are some ideas to get you started:
 | 1 | Born2beRoot | ✅ |
 | 2 | [Exam Rank 02](https://github.com/vde-maga/42-Exam_Practice) | ✅ |
 | 2 | [Push_swap](https://github.com/vde-maga/42-push_swap) | ✅ | 
-| 2 | [Minitalk](https://github.com/vde-maga/42-minitalk) | | 
-| 2 | So Long | |
+| 2 | [Minitalk](https://github.com/vde-maga/42-minitalk) | ✅ | 
+| 2 | [So Long](https://github.com/vde-maga/42-so_long) | |
 
 
 ###
