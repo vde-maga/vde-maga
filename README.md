@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 | 2 | [Push_swap](https://github.com/vde-maga/42-push_swap) | ✅ | 
 | 2 | [Minitalk](https://github.com/vde-maga/42-minitalk) | ✅ | 
 | 2 | [So Long](https://github.com/vde-maga/42-so_long) | ✅ |
-
+| 3 | [Minishell](https://github.com/vde-maga/42-minishell) | |
 
 ###
 
