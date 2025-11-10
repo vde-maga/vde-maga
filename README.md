@@ -37,6 +37,7 @@ Here are some ideas to get you started:
 | 2 | [So Long](https://github.com/vde-maga/42-so_long) | ✅ |
 | 3 | [Exam Rank 03](https://github.com/vde-maga/42-Exam_Practice) | ✅ |
 | 3 | [Minishell](https://github.com/vde-maga/42-minishell) | |
+| 3 | [Philosophers](https://github.com/vde-maga/42-philosophers) | | 
 
 
 ###
