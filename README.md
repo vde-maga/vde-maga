@@ -38,6 +38,7 @@ Here are some ideas to get you started:
 | 3 | [Exam Rank 03](https://github.com/vde-maga/42-Exam_Practice) | ✅ |
 | 3 | [Minishell](https://github.com/vde-maga/42-minishell) | ✅ |
 | 3 | [Philosophers](https://github.com/vde-maga/42-philosophers) | ✅ | 
+| 4 | [Cub3D](https://github.com/ruiribeiro04/42-cub3d) |  | 
 
 
 ###
