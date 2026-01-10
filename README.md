@@ -25,20 +25,20 @@ Here are some ideas to get you started:
    <img src="https://profile.intra.42.fr/assets/42_logo-7dfc9110a5319a308863b96bda33cea995046d1731cebb735e41b16255106c12.svg" alt="42 Logo" width="35px" align="center"> Projects
 </h3>
 
-| Milestone | Project Name | Status |
-| --- | --- | --- | 
-| 0 | [Libft](https://github.com/vde-maga/42-libft) | ✅ |
-| 1 | [ft_printf](https://github.com/vde-maga/42-printf) | ✅ |
-| 1 | [Get Next Line](https://github.com/vde-maga/42-get_next_line) | ✅ |
-| 1 | Born2beRoot | ✅ |
-| 2 | [Exam Rank 02](https://github.com/vde-maga/42-Exam_Practice) | ✅ |
-| 2 | [Push_swap](https://github.com/vde-maga/42-push_swap) | ✅ | 
-| 2 | [Minitalk](https://github.com/vde-maga/42-minitalk) | ✅ | 
-| 2 | [So Long](https://github.com/vde-maga/42-so_long) | ✅ |
-| 3 | [Exam Rank 03](https://github.com/vde-maga/42-Exam_Practice) | ✅ |
-| 3 | [Minishell](https://github.com/vde-maga/42-minishell) | ✅ |
-| 3 | [Philosophers](https://github.com/vde-maga/42-philosophers) | ✅ | 
-| 4 | [Cub3D](https://github.com/ruiribeiro04/42-cub3d) |  | 
+| **Milestone** | **Project Name** | **Status** | **Description** |
+| --- | --- | --- | --- |
+| 0 | [Libft](https://github.com/vde-maga/42-libft) | ✅ | Custom C library with reimplemented standard functions |
+| 1 | [ft_printf](https://github.com/vde-maga/42-printf) | ✅ | Recreation of the printf function with variadic arguments |
+| 1 | [Get Next Line](https://github.com/vde-maga/42-get_next_line) | ✅ | Function to read lines from file descriptors, static variables |
+| 1 | Born2beRoot | ✅ | System administration, Linux VM setup, partitions, services |
+| 2 | [Exam Rank 02](https://github.com/vde-maga/42-Exam_Practice) | ✅ | Practical C programming exam |
+| 2 | [Push_swap](https://github.com/vde-maga/42-push_swap) | ✅ | Sorting algorithm using two stacks with limited operations |
+| 2 | [Minitalk](https://github.com/vde-maga/42-minitalk) | ✅ | Client-server communication using UNIX signals (SIGUSR1/2) |
+| 2 | [So Long](https://github.com/vde-maga/42-so_long) | ✅ | 2D game with MiniLibX, textures, sprites, map parsing |
+| 3 | [Exam Rank 03](https://github.com/vde-maga/42-Exam_Practice) | ✅ | Practical exam (Recursion, Backtracking) |
+| 3 | [Minishell](https://github.com/vde-maga/42-minishell) | ✅ | Bash-like shell, parsing, pipes, redirections, builtins |
+| 3 | [Philosophers](https://github.com/vde-maga/42-philosophers) | ✅ | Dining philosophers problem, threads, mutexes, deadlocks |
+| 4 | [Cub3D](https://github.com/ruiribeiro04/42-cub3d) | ⏳ | 3D raycasting game engine inspired by Wolfenstein 3D |
 
 
 ###
