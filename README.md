@@ -14,32 +14,60 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi There! 👋 I'm Vitor Marques!</h1>
+<h3 align="center">Student at 42 Porto | Creative Developer | Multidisciplinary Designer</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/vitor-tiago-magalh%C3%A3es-marques-358487320/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:marquesvitor@protonmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <!-- Adiciona aqui o link para Portfolio/Behance se tiveres -->
+</p>
 
 ###
 
-<p align="left">I'm a student at 42 Porto, where I dedicate my time to expanding my programming knowledge as much as possible. I'm constantly looking for new challenges and learning, and I'm currently focused on the C language. As well as being a programmer, I'm a multidisciplinary designer with a passion for integrating physical and digital experiences. In my spare time, I seek inspiration in the arts, especially animated cinema.</p>
+<p align="left">I'm a student at <b>42 Porto</b>, dedicating my time to mastering low-level programming and software architecture. Currently focused on the <b>C language</b> and system administration.</p>
+
+<p align="left">Beyond code, I'm a <b>multidisciplinary designer</b> passionate about bridging the gap between physical and digital experiences. In my spare time, I seek inspiration in the arts, specially animated cinema.</p>
+
+### 🛠️ Languages & Tools
+
+<p align="left">
+  <!-- Ícones de Tech -->
+  <img src="https://skillicons.dev/icons?i=c,bash,linux,git,github,docker,vscode,vim" alt="Tech Stack" />
+  <!-- Ícones de Design (Exemplo: Ps, Ai, Figma) -->
+  <img src="https://skillicons.dev/icons?i=figma,ps,ai,blender" alt="Design Stack" />
+</p>
+
+### 📊 Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vde-maga&show_icons=true&theme=dracula&hide_border=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vde-maga&layout=compact&theme=dracula&hide_border=true" height="150" alt="languages graph" />
+</div>
 
 ### 
 
 <h3 >
-   <img src="https://profile.intra.42.fr/assets/42_logo-7dfc9110a5319a308863b96bda33cea995046d1731cebb735e41b16255106c12.svg" alt="42 Logo" width="35px" align="center"> Projects
+   <img src="https://profile.intra.42.fr/assets/42_logo-7dfc9110a5319a308863b96bda33cea995046d1731cebb735e41b16255106c12.svg" alt="42 Logo" width="25px"> 42 Curriculum
 </h3>
 
 | **Milestone** | **Project Name** | **Status** | **Description** |
-| --- | --- | --- | --- |
+| :---: | --- | :---: | --- |
 | 0 | [Libft](https://github.com/vde-maga/42-libft) | ✅ | Custom C library with reimplemented standard functions |
 | 1 | [ft_printf](https://github.com/vde-maga/42-printf) | ✅ | Recreation of the printf function with variadic arguments |
 | 1 | [Get Next Line](https://github.com/vde-maga/42-get_next_line) | ✅ | Function to read lines from file descriptors, static variables |
 | 1 | Born2beRoot | ✅ | System administration, Linux VM setup, partitions, services |
 | 2 | [Exam Rank 02](https://github.com/vde-maga/42-Exam_Practice) | ✅ | Practical C programming exam |
 | 2 | [Push_swap](https://github.com/vde-maga/42-push_swap) | ✅ | Sorting algorithm using two stacks with limited operations |
-| 2 | [Minitalk](https://github.com/vde-maga/42-minitalk) | ✅ | Client-server communication using UNIX signals (SIGUSR1/2) |
+| 2 | [Minitalk](https://github.com/vde-maga/42-minitalk) | ✅ | Client-server communication using UNIX signals |
 | 2 | [So Long](https://github.com/vde-maga/42-so_long) | ✅ | 2D game with MiniLibX, textures, sprites, map parsing |
 | 3 | [Exam Rank 03](https://github.com/vde-maga/42-Exam_Practice) | ✅ | Practical exam (Recursion, Backtracking) |
 | 3 | [Minishell](https://github.com/vde-maga/42-minishell) | ✅ | Bash-like shell, parsing, pipes, redirections, builtins |
-| 3 | [Philosophers](https://github.com/vde-maga/42-philosophers) | ✅ | Dining philosophers problem, threads, mutexes, deadlocks |
+| 3 | [Philosophers](https://github.com/vde-maga/42-philosophers) | ✅ | Dining philosophers problem, threads, mutexes |
 | 4 | [Cub3D](https://github.com/ruiribeiro04/42-cub3d) | ⏳ | 3D raycasting game engine inspired by Wolfenstein 3D |
-
 
 ###
 
