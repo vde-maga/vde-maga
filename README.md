@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 ### 
 
 <h3 >
-   <img src="https://profile.intra.42.fr/assets/42_logo-7dfc9110a5319a308863b96bda33cea995046d1731cebb735e41b16255106c12.svg" alt="42 Logo" width="25px"> 42 Curriculum
+   <img src="https://profile.intra.42.fr/assets/42_logo-7dfc9110a5319a308863b96bda33cea995046d1731cebb735e41b16255106c12.svg" alt="42 Logo" width="25px"> Curriculum
 </h3>
 
 | **Milestone** | **Project Name** | **Status** | **Description** |
