@@ -44,8 +44,7 @@ Here are some ideas to get you started:
 ### 📊 Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vde-maga&show_icons=true&theme=dracula&hide_border=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vde-maga&layout=compact&theme=dracula&hide_border=true" height="150" alt="languages graph" />
+    <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=github-dark&fontFamily=&preferLogin=true">    <img  alt="vde-maga's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/vde-maga?cardType=level&theme=github-dark&fontFamily=&preferLogin=true" />  </a>
 </div>
 
 ### 
