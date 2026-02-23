@@ -55,18 +55,18 @@ Here are some ideas to get you started:
 
 | **Milestone** | **Project Name** | **Status** | **Description** |
 | :---: | --- | :---: | --- |
-| 0 | [Libft](https://github.com/vde-maga/42-libft) | ✅ | Custom C library with reimplemented standard functions |
-| 1 | [ft_printf](https://github.com/vde-maga/42-printf) | ✅ | Recreation of the printf function with variadic arguments |
-| 1 | [Get Next Line](https://github.com/vde-maga/42-get_next_line) | ✅ | Function to read lines from file descriptors, static variables |
-| 1 | Born2beRoot | ✅ | System administration, Linux VM setup, partitions, services |
-| 2 | [Exam Rank 02](https://github.com/vde-maga/42-Exam_Practice) | ✅ | Practical C programming exam |
-| 2 | [Push_swap](https://github.com/vde-maga/42-push_swap) | ✅ | Sorting algorithm using two stacks with limited operations |
-| 2 | [Minitalk](https://github.com/vde-maga/42-minitalk) | ✅ | Client-server communication using UNIX signals |
-| 2 | [So Long](https://github.com/vde-maga/42-so_long) | ✅ | 2D game with MiniLibX, textures, sprites, map parsing |
-| 3 | [Exam Rank 03](https://github.com/vde-maga/42-Exam_Practice) | ✅ | Practical exam (Recursion, Backtracking) |
-| 3 | [Minishell](https://github.com/vde-maga/42-minishell) | ✅ | Bash-like shell, parsing, pipes, redirections, builtins |
-| 3 | [Philosophers](https://github.com/vde-maga/42-philosophers) | ✅ | Dining philosophers problem, threads, mutexes |
 | 4 | [Cub3D](https://github.com/ruiribeiro04/42-cub3d) | ⏳ | 3D raycasting game engine inspired by Wolfenstein 3D |
+| 3 | [Philosophers](https://github.com/vde-maga/42-philosophers) | ✅ | Dining philosophers problem, threads, mutexes |
+| 3 | [Minishell](https://github.com/vde-maga/42-minishell) | ✅ | Bash-like shell, parsing, pipes, redirections, builtins |
+| 3 | [Exam Rank 03](https://github.com/vde-maga/42-Exam_Practice) | ✅ | Practical exam (Recursion, Backtracking) |
+| 2 | [So Long](https://github.com/vde-maga/42-so_long) | ✅ | 2D game with MiniLibX, textures, sprites, map parsing |
+| 2 | [Minitalk](https://github.com/vde-maga/42-minitalk) | ✅ | Client-server communication using UNIX signals |
+| 2 | [Push_swap](https://github.com/vde-maga/42-push_swap) | ✅ | Sorting algorithm using two stacks with limited operations |
+| 2 | [Exam Rank 02](https://github.com/vde-maga/42-Exam_Practice) | ✅ | Practical C programming exam |
+| 1 | Born2beRoot | ✅ | System administration, Linux VM setup, partitions, services |
+| 1 | [Get Next Line](https://github.com/vde-maga/42-get_next_line) | ✅ | Function to read lines from file descriptors, static variables |
+| 1 | [ft_printf](https://github.com/vde-maga/42-printf) | ✅ | Recreation of the printf function with variadic arguments |
+| 0 | [Libft](https://github.com/vde-maga/42-libft) | ✅ | Custom C library with reimplemented standard functions |
 
 ###
 
