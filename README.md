@@ -55,6 +55,7 @@ Here are some ideas to get you started:
 
 | **Milestone** | **Project Name** | **Status** | **Description** |
 | :---: | --- | :---: | --- |
+| 4 | [Exam Rank 04](https://github.com/vde-maga/42-Exam_Practice) | ✅ | Practical exam covering process management (pipes, signals, fork/exec) and parsing algorithms (JSON, arithmetic expressions) |
 | 4 | [Cub3D](https://github.com/ruiribeiro04/42-cub3d) | ⏳ | 3D raycasting game engine inspired by Wolfenstein 3D |
 | 3 | [Philosophers](https://github.com/vde-maga/42-philosophers) | ✅ | Dining philosophers problem, threads, mutexes |
 | 3 | [Minishell](https://github.com/vde-maga/42-minishell) | ✅ | Bash-like shell, parsing, pipes, redirections, builtins |
