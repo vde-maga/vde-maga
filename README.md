@@ -36,9 +36,9 @@ Here are some ideas to get you started:
 
 <p align="left">
   <!-- Ícones de Tech -->
-  <img src="https://skillicons.dev/icons?i=c,bash,linux,git,github,docker,vscode,vim" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,bash,linux,git,github,docker,vscode,vim" alt="Tech Stack" />
   <!-- Ícones de Design (Exemplo: Ps, Ai, Figma) -->
-  <img src="https://skillicons.dev/icons?i=figma,ps,ai,blender" alt="Design Stack" />
+  <img src="https://skillicons.dev/icons?i=figma,ps,ai,pr,ae,blender" alt="Design Stack" />
 </p>
 
 ### 📊 Stats
